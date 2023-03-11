@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artypy
+- 👋 Hi, I’m @Lumie-socket
 - 👀 I’m interested in rust,python
 - 🌱 I’m currently learning rust,python,webdev frontend
 - 📫 Lumie#1000
