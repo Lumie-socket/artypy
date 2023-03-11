@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @artypy
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you cant
+- 👀 I’m interested in rust,python
+- 🌱 I’m currently learning rust,python,webdev frontend
+- 📫 Lumie#1000
 
 <!---
 artypy/artypy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
